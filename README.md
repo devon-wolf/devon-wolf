@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Devon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devon-wolf)](https://github.com/devon-wolf/github-readme-stats)
+[![Devon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devon-wolf&theme=calm)](https://github.com/devon-wolf/github-readme-stats)
