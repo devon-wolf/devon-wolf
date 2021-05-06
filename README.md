@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 [![Devon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devon-wolf&theme=calm)](https://github.com/devon-wolf/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devon-wolf&theme=calm)](https://github.com/devon-wolf/github-readme-stats)
