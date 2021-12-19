@@ -17,7 +17,7 @@ I'm Devon.
 
 I'm an engineer who loves to tinker and try new things - you'll always find some experiment brewing here.
 
-I'm currently brushing up my Ruby on Rails, continuing my perennial fascination with Discord bots, and studying text editors.
+I like templates, text editors, APIs, and bots. I might like other things too!
 
 ---
 
